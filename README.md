@@ -1,4 +1,4 @@
-# password_handout
+#Password Handout
 
 ## Description 
 Password handout is a simple POC code to demonstrate using a hostname as a password 
